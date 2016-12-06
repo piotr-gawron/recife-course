@@ -1,0 +1,14 @@
+{
+  "name": "task-4-recife-course",
+  "version": "0.0.1",
+  "description": "output current weather in Recife",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Gawron",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
